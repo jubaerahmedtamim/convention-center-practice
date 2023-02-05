@@ -1,0 +1,22 @@
+
+footer{
+    background-color: black;
+    color: white;
+}
+.carousel-previous img{
+    transform: rotate(180deg);
+}
+ul>li{
+   list-style-position: inside; 
+   list-style-image:url(../icons/accept.png);
+}
+  
+.column-hover:hover{
+    background-color: #3F87F5 ;
+    color: white;
+}
+  
+.column-hover>button:hover{
+    background-color: white;
+    
+}
